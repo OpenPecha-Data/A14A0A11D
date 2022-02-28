@@ -1,0 +1,28 @@
+segment_sources:
+  P86EA9849:
+    type: origin_type
+    relation: translation
+    language: en
+  PFAFE4F12:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  24312dd93f124b39bdcde16d43c48dcb:
+    P86EA9849: 83ad49699a24414aa84b4e68ce126335
+    PFAFE4F12: 417c953d8e2d4f1cb4da4b50daf38940
+  5cd692f13011401695f69fd8607d943d:
+    P86EA9849: fd86499d86074847927ed5966fe1a227
+    PFAFE4F12: 596d19f626434d808f8b9ed9c81f5ccf
+  2b2a492f674c4ad79ccfbd830532ef5c:
+    P86EA9849: e11ed5166a6d4a52910d2e091d416ba2
+    PFAFE4F12: d4c996c59cec447d9c27a293cb9b89d5
+  2de3209f296d41e4a9a5f03a63de812d:
+    P86EA9849: 42ffadeb6f4f4790a30d47f2501b63e3
+    PFAFE4F12: 39fc28838b2c4395a2b4f35de3311200
+  a3f1631ea8e64d5f99467ae0d2cb6635:
+    P86EA9849: 09325fb5f56848c19f13b99b2c8d262a
+    PFAFE4F12: 7535ffe475b84cb2b1d365a45abd14c0
+  f423a69f25f14faa89a7d5ebe450d2b0:
+    P86EA9849: 2abcc32236594f8792f94d743303ef71
+    PFAFE4F12: 229983711e8a4011ba57bd47320c7ea6

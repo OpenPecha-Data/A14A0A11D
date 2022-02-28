@@ -1,0 +1,61 @@
+segment_sources:
+  P86EA9849:
+    type: origin_type
+    relation: translation
+    language: en
+  P72C31DFC:
+    type: origin_type
+    relation: translation
+    language: de
+  PB99E17DE:
+    type: origin_type
+    relation: translation
+    language: es
+  P54D8595C:
+    type: origin_type
+    relation: translation
+    language: fr
+  P202F9670:
+    type: origin_type
+    relation: translation
+    language: zh
+  PFAFE4F12:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  43a6d1eb28e5471b91fbf02538493b27:
+    P86EA9849: 8c078b5c004249739d14dc4807d273ee
+    P72C31DFC: bb06e8a3038745a587f8a00accad9eeb
+    PB99E17DE: 5e5652585c004d4591cfb9740b190843
+    P54D8595C: 300762440f4c4c8ab06fa0959d726527
+    P202F9670: e6b1fe1b722c4ce2a62d891eea871536
+    PFAFE4F12: 54db6374c02f49b3b37a9c2729a7a686
+  8221c0ab25fe4ca38df76294023d1369:
+    P86EA9849: 16eb6b13276d43cdb307f4a91af3bcb4
+    P72C31DFC: f8617620ea964e3f8044cbd82844d8d8
+    PB99E17DE: ea267fcb58f143f299f96daf8846f571
+    P54D8595C: d7e503dc5fe04bfab0eedbd10591616e
+    P202F9670: 716b76930d3a43a197038aff05ac6fe2
+    PFAFE4F12: 016674d6baf9411d8e788afb0e3c741d
+  6bdb2a178e5140148140a63c7360a063:
+    P86EA9849: 187a316672184b94b90dff0cca2a9131
+    P72C31DFC: 04d66dc43c164ab78fbd6856e0e17467
+    PB99E17DE: 8ae907916d4147f6bfa08a67fbcb8af3
+    P54D8595C: 393afd5210b3431d97238aa600c6c2be
+    P202F9670: ab88333473cb44d784c2e9d19c72f23e
+    PFAFE4F12: 530877b351ed4398906f7a48c7479206
+  8c7bc9ad578644d58b74c64befd1c6c6:
+    P86EA9849: ccdd9ba289a94c78982140226635e7e6
+    P72C31DFC: 39b70abdcc8747a686ccbb6e509543e7
+    PB99E17DE: 424adf7321ed4582b41e6b9386f746f0
+    P54D8595C: e0eccf5df1ae485296299b78c614709e
+    P202F9670: aa2f3d27996b46339bd30c1594cb65e7
+    PFAFE4F12: a476760601b54d7794b32aafc6b62ddc
+  c9905f4afb394e6698bb6ae77a3eccb6:
+    P86EA9849: a93e88a749ed4e3b890bdca304c5bdc9
+    P72C31DFC: 60c9c27f661941c387bd1cf4e24b514c
+    PB99E17DE: 79544399041e4c539a03cc29b654fc72
+    P54D8595C: 5b623eabee144252b838ed32e8438ebb
+    P202F9670: 343f79115556478096469726b1a4179e
+    PFAFE4F12: 331b9a12206f49c3ab673de713a579ee

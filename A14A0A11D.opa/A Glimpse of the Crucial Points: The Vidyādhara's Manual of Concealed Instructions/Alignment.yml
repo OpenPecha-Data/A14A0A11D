@@ -1,0 +1,19 @@
+segment_sources:
+  P86EA9849:
+    type: origin_type
+    relation: translation
+    language: en
+  PFAFE4F12:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  f1f043bd77dc442c8430242c235e5a36:
+    P86EA9849: 9c572bc152fe449d8ef44dad4d6a2334
+    PFAFE4F12: 97f6393dbd4a4cbaa867899ee810d702
+  ada2c0ccbdd74fda8dd512e58b73945a:
+    P86EA9849: c3d4c69a05b64aed8d1fcee2e2c62897
+    PFAFE4F12: bd40c45c52fa487d83cb3638d484ad2b
+  3273d136ac8f4a6cb7da5643547657f6:
+    P86EA9849: d261fa1f625f4782ab0813afbef2bde0
+    PFAFE4F12: 96e2e2d3fe5d45f8b659ed49a6147464

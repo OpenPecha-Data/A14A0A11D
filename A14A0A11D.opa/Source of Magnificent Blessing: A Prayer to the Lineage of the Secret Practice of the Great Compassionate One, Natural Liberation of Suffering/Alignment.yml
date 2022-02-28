@@ -1,0 +1,28 @@
+segment_sources:
+  P86EA9849:
+    type: origin_type
+    relation: translation
+    language: en
+  PFAFE4F12:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6e2a3a6b3d75493b874c1d7728772b21:
+    P86EA9849: be3644af6dcc417fa5bc2124ac47a1aa
+    PFAFE4F12: 8b751e44e7a94a28928bd8670c5f09dd
+  5a50f52be3234a039f5b72d94f8b1421:
+    P86EA9849: e94b6091775544fc8958ae2619f773fd
+    PFAFE4F12: 4de3e0c93fb843758d88f17ac8cd3493
+  33f3d6199eda4380afd1ec1d519f20a9:
+    P86EA9849: 8a5b020eb3244acb9a8cd83b73832dee
+    PFAFE4F12: 94b5844fc3c44ea185a3fcbbf9df876e
+  9bf4ebd916074d5c9658fb83eae784c0:
+    P86EA9849: 92a4548da7394e65970310e3235a585e
+    PFAFE4F12: 3f68291098b94abb8ee8ba22c131a1bd
+  ec208ddadaf1488a9b876b6bf8ce553a:
+    P86EA9849: 5c20de3c51ea4581a23381fdd47b6c6d
+    PFAFE4F12: 4e321becb1fd47efb2a0735d755a7fb7
+  071a020602fe41f98e47b77970bfb003:
+    P86EA9849: fa96d2b21f1e48fca27dd38359b5b92a
+    PFAFE4F12: beef207d87cf4214a141bb16ff1ee87d
